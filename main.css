@@ -1,0 +1,130 @@
+body {
+	background: #FFFCF6;
+	padding: 0px;
+	width: 650px; 
+	margin: 10px auto 60px;
+}
+a {
+	color: #000000;
+	text-decoration: none;
+}
+h1 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 600;
+	color: #767575;
+	position: relative;
+	padding-top: 30px;
+	padding-left: 150px;
+	padding-right: 100px;
+	text-transform: uppercase;
+	line-height: 5px;
+}
+.header p {
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 400;
+	color: #000000;
+	display: block-inline;
+	position: relative;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	padding-left: 50px;
+	padding-right: 50px;
+	line-height: 5px;
+	border-bottom: 4px double #000000;
+}
+h2 {
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: 700;
+	color: #767575;
+	position: relative;
+	padding-top: 10px;
+	line-height: 5px;
+}
+.profile p {
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: 400;
+	color: #000000;
+	font-size: 16px;
+	position: relative;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	line-height: 20px;
+	display: block;
+	border-bottom: 1px solid #000000;
+}
+h3 {
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: 700;
+	color: #000000;
+	position: relative;
+	padding-top: 15px;
+	line-height: 0px;
+}
+h4 {
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: 400;
+	position: relative;
+	padding-right: 15px;
+	border-right: 1px solid #000000;
+}
+.experience p {
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: 300;
+	position: relative;
+	padding-left: 10px;
+}
+.experience h4, p {
+	display: inline;
+	color: #000000;
+	line-height: 0px;
+}
+ul {
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: 300;
+	color: #000000;
+	display: block;
+	position: relative;
+	padding-top: 2px;
+	padding-left: 30px;
+	padding-right: 10px;
+	line-height: 20px;
+}
+.experience .container {
+	border-bottom: 1px solid #000000;
+}
+.education p {
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: 400;
+	position: relative;
+	padding-left: 10px;
+}
+.education h3, p {
+	display: inline;
+	line-height: 5px;
+}
+.aptitude p {
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: 400;
+	position: relative;
+	padding-left: 10px;
+}
+.aptitude h3, p {
+	display: inline;
+	line-height: 20px;
+}
+.aptitude {
+	position: relative;
+	padding-bottom: 20px;
+}
+.footer {
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 400;
+	color: #000000;
+	display: block-inline;
+	line-height: 10px;
+	position: relative;
+	padding-top: 10px;
+	padding-left: 50px;
+	padding-right: 50px;
+	border-top: 4px double #000000;
+}

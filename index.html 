@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+ 	<link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700|Josefin+Sans:400,600,700' rel='stylesheet' type='text/css'>
+ 	<link href="main.css" rel="stylesheet">
+  <title>Annette Tousley Resume</title>
+ 	</head>
+ <body>
+  <div class="header">
+  	<div class="container">
+  		<h1>Annette B. Tousley</h1>
+      <p>612-840-6793 - <a class="email" href="mailto:annette.tousley@gmail.com">annette.tousley@gmail.com</a> - 1529 2nd Street NE, Minneapolis MN</p>
+  	</div>
+  	</div>
+  <div class="profile">
+  	<div class="container">
+  		<h2>Profile</h2>
+  		<p>Energetic and strategic innovator. Driven positive thinker. Deft writer and detail-oriented worker. I see opportunity in obstacles and do everything with a smile.</p>
+  	</div>
+  	</div>
+  	<div class="experience">
+  	<div class="container">
+  		<h2>Experience</h2>
+  		<h3>Periscope</h3>
+  		<h4>Assistant Project Manager</h4>
+  		<p>August 2014 - Present</p>
+  		<ul>
+  			<li>Define and drive scope, budget, and timing for pre-media projects to deliver innovative design for private label brand packaging at Walgreens</li>
+  			<li>Liaise communication between client, supplier, and internal team to provide solution-oriented support and direction for all parties</li>
+  			<li>Provide positive reinforcement for project team to meet deadlines while maintaining high-quality deliverables that are within budget</li>
+  			<li>Manage risk for Walgreens Legal team by obtaining documentation that ensures all final work meets specific legal requirements</li>
+  		</ul>
+  		<h3>University of Minnesota, Humphrey School of Public Affairs</h3>
+  		<h4>Events Coordinator</h4>
+  		<p>April 2013 - August 2014</p>
+  		<ul>
+  			<li>Planned all aspects of school events to build relationships with current and prospective students, donors, and external stakeholders and increase visibility and ranking</li>
+  			<li>Led detailed execution of event logistics, strategy, advertisement, content, and vendor management to ensure successful outcomes and advance the goals of the school</li>
+  			<li>Hosted top-tier speakers including former Secretary of State Condoleezza Rice (April 2014) and President Bill Clinton (June 2014) to present opportunities for students and community members to learn from world leaders in the field of public affairs</li>
+  			<li>Created and allocated budgets up to $230,000/event to oversee responsible use of public and private funds while garnering high-impact results</li>
+  			<li>Developed content and created online internal newsletter for the Department of Communications to enhance information sharing and transparency throughout the school</li>
+  		</ul>
+  		<h3>LivingSocial, Adventures</h3>
+  		<h4>Event Assistant</h4>
+  		<p>September 2011 - December 2012</p>
+  		<ul>
+  			<li>Produced high-quality events ranging from horseback riding to ice climbing to increase local participation in LivingSocial Adventures</li>
+  			<li>Facilitated trainings for 32 staff to prepare team members for varied events each quarter to achieve high success rates for guest experience</li>
+  			<li>Generated new processes to streamline event execution and drive consumer interaction with the LivingSocial brand</li>
+  		</ul>
+  		<h3>Minneapolis Public Schools, Washburn High School</h3>
+  		<h4>Community Liaison</h4>
+  		<p>August 2010 - August 2012</p>
+  		<ul>
+  			<li>Organized exam logistics as Assessment Coordinator to achieve authentic test results in a students-focused setting</li>
+  			<li>Guided student government members in the planning, implementation, and execution of school activities to increase student autonomy and leadership</li>
+  			<li>Supervised the Volunteer Coordinator to strategically create positive volunteer-staff-student relationships and enhance the classroom experience</li>
+  		</ul>
+  	</div>
+  	</div>
+  	<div class="education">
+  	<div class="container">
+  		<h2>Education</h2>
+  		<h3>Hamline University</h3>
+  		<p>Bachelor of Arts, English, 2009</p>
+  	</div>
+  	</div>
+  	<div class="aptitude">
+  	<div class="container">
+  		<h2>Aptitude</h2>
+  		<h3>StrengthsFinder 2.0</h3>
+  		<p>Input - Futuristic - Responsibility - Communication - Discipline</p><br>
+  		<h3>Myers Briggs</h3>
+  		<p>ENTJ</p>
+    </div>
+  </div>
+  <div class="footer">
+    <p>612-840-6793 - <a class="email" href="mailto:annette.tousley@gmail.com">annette.tousley@gmail.com</a> - 1529 2nd Street NE, Minneapolis MN</p>
+  </div>
+    </body>
+  </body>
+</html>
